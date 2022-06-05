@@ -11,7 +11,7 @@ ______________________
 
 
 #### Se aprecian trabajando las 2 máquinas virtuales.
-![](screenshots\2.jpg](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/2.jpg](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/2.jpg)
+![](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/2.jpg](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/2.jpg)
 
 #### Configuración con PowerShell para conexión de ambas máquinas 
 ![](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/3.jpg)
