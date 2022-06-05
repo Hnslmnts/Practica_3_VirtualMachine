@@ -7,14 +7,14 @@ ______________________
 
 #### Creación de los recursos de las 2 máquinas virtuales.
 
-![](screenshots\1.jpg)
+![](screenshots\1.jpg](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/1.jpg)
 
 
 #### Se aprecian trabajando las 2 máquinas virtuales.
-![](screenshots\2.jpg)
+![](screenshots\2.jpg](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/2.jpg)
 
 #### Configuración con PowerShell para conexión de ambas máquinas 
-![](screenshots\3.jpg)
+![](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/3.jpg)
 
 #### Se aprecia la conexión de la VM2 trabajando dentro de la VM1. 
-![](screenshots\4.jpg)
+![](screenshots\4.jpg](https://github.com/Hnslmnts/Practica_3_VirtualMachine/blob/main/screenshots/4.jpg)
